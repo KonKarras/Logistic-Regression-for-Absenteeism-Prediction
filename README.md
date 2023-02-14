@@ -11,4 +11,4 @@ It's time for the most interesting part, the Regression's development. Before we
 
 # Results - (Future Update)
 
-The results will be further analyzed and visualized in Tableau in a future update, but with a regression score of 0.742 one could suggest that experimentation and possibly better predictions are achievable through alternative approaches such as Linear Regression or even Neural Networks.
+The results will be further analyzed and visualized in Tableau in a future update, also including the deployment of the project, but with a regression score of 0.742 one could suggest that experimentation and possibly better predictions are achievable through alternative approaches such as Linear Regression or even Neural Networks.
