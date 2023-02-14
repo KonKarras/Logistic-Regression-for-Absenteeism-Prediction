@@ -1,6 +1,6 @@
 # Logistic Regression for Absenteeism Prediction
 
-Case Study provided and developed during the "Data Science course 2023: Complete Data Science Bootcamp".
+Case Study provided and developed during the "Data Science Course 2023: Complete Data Science Bootcamp".
 The aim of the project is to predict whether an employee of a company will be excessively absent from work or not, based on data of 12 different features across 700 unique entries. The original dataset along with its features' descriptions is provided in the .csv and the .pdf files respectively. The whole course can be found here: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/ 
 
 The approach consists of two main parts: the preprocessing phase, where targeted operations take place in order to validate, clean as well as save and prepare our source data for further analysis and the model development, where after some more data manipulation, a Logistic Regression algorithm is applied in order to achieve the desired estimations, which means results organized in a way that could give meaningful future insights. 
