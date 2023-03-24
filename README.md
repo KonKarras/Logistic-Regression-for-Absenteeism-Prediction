@@ -26,4 +26,5 @@ This file can now be imported in Tableau, where it gets analyzed to result in a 
 2) most of the individuals in our dataset were 40 years old or younger, but older ones present mostly higher probability to be absent and 
 3) the expected probability of an individual to be excessively absent because of a reason from the first group (serious reasons) is higher than 50%, the opposite occurs for the fourth group (light reasons), whereas we cannot derive any meaningful insights for the second and the third group, as none of our observations has been away from work because of a reason in the second group and very few and symmetrically distributed observations have specified one of the reasons in the third group.
 
-Link for the dashboard: https://public.tableau.com/app/profile/konstantinos.karras/viz/AbsenteeismDashboard_16796600243480/AbsenteeismDashboard
+A screenshot of the dashboard can be found in the .png file.
+The interactive dashboard can be accessed through the .tbwx file or through the link below: https://public.tableau.com/app/profile/konstantinos.karras/viz/AbsenteeismDashboard_16796600243480/AbsenteeismDashboard
