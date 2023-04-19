@@ -28,6 +28,6 @@ This file can now be imported in Tableau, where it gets analyzed to result in a 
 
 A screenshot of the dashboard can be found in the .png file.
 
-The interactive dashboard can be accessed through the .tbwx file or through the link below:
+The interactive dashboard can be accessed through the .twbx file or through the link below:
 
 https://public.tableau.com/app/profile/konstantinos.karras/viz/AbsenteeismDashboard_16796600243480/AbsenteeismDashboard
